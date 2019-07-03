@@ -1,14 +1,13 @@
 
-
 a:link, a:visited {
   background-color: #0f9d8c;
   color: white;
-  padding: 14px 25px;
+  padding: 25px 25px;
   margin: 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  width: 200px;
+  width: 70%;
 }
 
 a:hover, a:active {
@@ -18,4 +17,9 @@ a:hover, a:active {
 div{
     padding: 1px;
 
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
 }
