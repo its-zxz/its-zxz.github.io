@@ -7,7 +7,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  width: 70%;
+  width: 80%;
 }
 
 a:hover, a:active {
@@ -20,6 +20,6 @@ div{
 }
 
 .content {
-  max-width: 500px;
+  max-width: 80%;
   margin: auto;
 }
